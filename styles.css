@@ -1,0 +1,48 @@
+body {
+    background-image: linear-gradient(to right, rgb(255, 94, 0) , rgb(0, 145, 150));
+    font-family: monospace;
+    font-size: x-large;
+}
+
+.section {
+    background-color: #F7F5EB;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 140px;
+    border-radius: 15px;
+    padding: 20px;
+
+}
+
+.form1 {
+    align-items: center;
+    text-align: center;
+    font-family: monospace;
+}
+
+.input1 {
+    text-decoration: none;
+    width: 150px;
+    font-family: monospace;
+    font-size: 20px;
+    height: 25px;
+}
+
+#temp_diff {
+    height: 30px;
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: #007c4f;
+    color: azure;
+    padding: 10px;
+    border-radius: 15px;
+    font-family: monospace;
+}
+.btn:hover{
+    background-color: orangered;
+    cursor: pointer;
+}
